@@ -56,6 +56,6 @@ Electron base files.
 
 > For further information about development with Electron, checkout the [official documentation](https://www.electronjs.org/docs/latest/).
 
-# LICENSE
+## LICENSE
 
 This project is under the [MIT](https://github.com/gabe-frasz/starting-with-electron/blob/main/LICENSE) license.
