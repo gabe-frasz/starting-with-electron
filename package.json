@@ -11,7 +11,7 @@
     "package": "electron-forge package",
     "make": "electron-forge make",
     "publish": "electron-forge publish",
-    "format": "prettier --write \"./**/*.{md,json,js,cjs,mjs,ts,tsx}\"",
+    "format": "prettier --write \"./**/*.{json,js,cjs,mjs,ts,tsx}\"",
     "lint": "eslint --ext .ts,.tsx ."
   },
   "dependencies": {
